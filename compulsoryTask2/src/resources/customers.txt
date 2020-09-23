@@ -1,0 +1,4 @@
+0, Jill Jack, 1234567890, Cape Town, 12 Cherry Road, Plumstead, jilljack@yahoo.com
+1, James Small, 2356459876, Cape Town, 13 Long Street, Oranjezicht, jamessmall@gmail.com
+3, Maid Marion, 0236549874, Durban, 10 Main Street, City Centre, maidmarion@gmail.com
+2, James Dalton, 1236549876, Johannesburg, 10 Cambridge Road, Bryanston, daltonj@gmail.com
