@@ -6,6 +6,7 @@ This project is coded in Java, and uses System input and output for user interac
 * Maintaining a list of drivers (saved to a text file) and updating the relevant driver's order load each time the user enters an order
 * Getting user input on the order details, allowing the user to select previously entered data where relevant
 * Generating an invoice based on the order details entered by the user, and saving the invoice to a text file
+  
 The project demonstrates the following skills:
 * Solving a real-world problem using object oriented programming principles
 * Utilizing the Java Collections framework
