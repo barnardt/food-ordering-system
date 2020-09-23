@@ -2,5 +2,6 @@ James Dalton, 2
 James Small, 0
 James Small, 1
 James Small, 3
+James Small, 6
 Maid Marion, 4
 Maid Marion, 5

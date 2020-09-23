@@ -44,8 +44,8 @@ public class CaptureOrder {
 		}
 		
 		// *Read drivers from file*
-		// Read the drivers.txt file and save to an ArrayList
-		ArrayList<String> driversStr = readFile("./src/resources/drivers.txt");
+		// Read the driver-info.txt file and save to an ArrayList
+		ArrayList<String> driversStr = readFile("./src/resources/driver-info.txt");
 		
 		// Convert the driver strings to driver class objects in a new ArrayList
 		ArrayList<Driver> driversObj  = new ArrayList<>();
@@ -243,7 +243,7 @@ public class CaptureOrder {
 		}
 		
 		// Output the updated list of drivers to the relevant file
-		writeArrayList("./src/resources/drivers.txt", driversWrite);
+		writeArrayList("./src/resources/driver-info.txt", driversWrite);
 		
 		// *Save order summaries*
 		// Sort the ArrayList of order summaries by customer name
