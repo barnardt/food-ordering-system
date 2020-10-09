@@ -1,7 +1,6 @@
-# Second Capstone Project - Online Food Delivery Order System in Java
-### *Hyperion Development Immersive Web Development and Software Engineering Bootcamp*
+## Online Food Delivery Order System in Java
 This is the second capstone project for the Hyperion Development bootcamp. Most of the features of this project were included based on the project requirements.
-This project is coded in Java, and uses System input and output for user interaction. It has the following functionality:
+This project is coded in Java, and uses System input and output (command line) for user interaction. It has the following functionality:
 * Maintaining text files with simple lists of restaurants, customers and orders entered previously by the user
 * Maintaining a list of drivers (saved to a text file) and updating the relevant driver's order load each time the user enters an order
 * Getting user input on the order details, allowing the user to select previously entered data where relevant
